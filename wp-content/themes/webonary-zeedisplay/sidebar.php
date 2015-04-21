@@ -1,4 +1,4 @@
-<div <?php if(!isMobile()) { ?> id="sidebar" <? } ?>>
+<div <?php if(!isMobile()) { ?> id="sidebar" <?php } ?>>
 	<ul>
 
 <?php
